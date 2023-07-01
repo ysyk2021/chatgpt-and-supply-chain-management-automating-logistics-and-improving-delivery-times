@@ -3,11 +3,6 @@ Types of Supply Chains
 
 In this chapter, we will discuss the basics of supply chain management, including the different types of supply chains.
 
-What is Supply Chain Management?
---------------------------------
-
-Supply chain management refers to the coordination and management of activities involved in the production and delivery of goods and services. It involves managing the flow of materials, information, and finances from suppliers to manufacturers to distributors to customers.
-
 Types of Supply Chains
 ----------------------
 
