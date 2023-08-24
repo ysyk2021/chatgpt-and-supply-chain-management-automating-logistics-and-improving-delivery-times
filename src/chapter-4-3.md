@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for Logistics and Delivery Times
-=====================================================================================================================================
 
 In this chapter, we will discuss the benefits of using AI and chatbots for logistics and delivery times.
 

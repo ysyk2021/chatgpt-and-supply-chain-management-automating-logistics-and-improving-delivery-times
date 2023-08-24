@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-==================================================================================================
 
 In this chapter, we will introduce the role of artificial intelligence (AI) and chatbots in supply chain management. AI and chatbots can provide significant benefits to supply chain management by automating processes, improving efficiency, and reducing costs.
 

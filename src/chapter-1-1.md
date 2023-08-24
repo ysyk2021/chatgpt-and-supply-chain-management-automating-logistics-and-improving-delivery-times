@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 In this book, we will explore the role of technology in supply chain management and how it can be leveraged to automate logistics and improve delivery times. The book is divided into several chapters, each focusing on a key aspect of supply chain management.
 

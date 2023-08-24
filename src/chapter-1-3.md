@@ -1,5 +1,3 @@
-The Role of Technology in Supply Chain Management
-===============================================================
 
 Technology has played an increasingly important role in supply chain management in recent years. From data analytics to automation, technology has enabled organizations to streamline their supply chain processes and improve efficiency. In this chapter, we will discuss the key technologies that are transforming supply chain management.
 

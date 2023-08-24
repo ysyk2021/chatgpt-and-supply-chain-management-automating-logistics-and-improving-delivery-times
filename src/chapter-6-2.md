@@ -1,5 +1,3 @@
-Best Practices for Using ChatGPT in Supply Chain Management
-=======================================================================================================================
 
 In this chapter, we will discuss best practices for using ChatGPT in supply chain management.
 

@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 In this chapter, we will discuss what ChatGPT is and how it can be used in supply chain management.
 

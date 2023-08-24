@@ -1,5 +1,3 @@
-Elements of a Supply Chain
-========================================================================
 
 In this chapter, we will discuss the elements that make up a supply chain.
 
@@ -37,5 +35,4 @@ Conclusion
 ----------
 
 The elements of a supply chain include suppliers, manufacturers, distributors, logistics providers, customers, and information systems. Each element plays a critical role in ensuring that products are produced and delivered efficiently and effectively. By understanding these elements and how they interact with each other, organizations can develop strategies to optimize their supply chain and improve the delivery of goods and services.
-
 

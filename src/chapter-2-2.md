@@ -1,5 +1,3 @@
-Importance of Supply Chain Management
-===================================================================================
 
 In this chapter, we will discuss the importance of supply chain management in modern business.
 

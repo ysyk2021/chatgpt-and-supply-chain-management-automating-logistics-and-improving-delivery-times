@@ -1,5 +1,3 @@
-Conclusion and future outlook
-========================================================================================
 
 In this chapter, we will conclude our discussion on the future of supply chain management with ChatGPT and provide an outlook on its potential impact.
 

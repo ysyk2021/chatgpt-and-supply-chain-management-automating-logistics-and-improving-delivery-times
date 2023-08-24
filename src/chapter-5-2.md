@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 In this chapter, we will discuss the features and capabilities of ChatGPT, a powerful AI-powered chatbot that can be used to automate supply chain management processes.
 

@@ -1,5 +1,3 @@
-Case Studies of Companies that have Successfully Implemented ChatGPT in their Supply Chain Management
-=================================================================================================================================================================
 
 In this chapter, we will discuss case studies of companies that have successfully implemented ChatGPT in their supply chain management processes.
 

@@ -1,5 +1,3 @@
-Definition of Supply Chain Management
-===================================================================================
 
 In this chapter, we will define supply chain management and discuss its importance in modern business.
 

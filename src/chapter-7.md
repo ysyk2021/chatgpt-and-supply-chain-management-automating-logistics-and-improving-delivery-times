@@ -1,5 +1,3 @@
-Chapter 6: Future of Supply Chain Management with ChatGPT
-=========================================================
 
 In this chapter, we will discuss the potential advancements in supply chain management with ChatGPT and its impact on the logistics industry.
 

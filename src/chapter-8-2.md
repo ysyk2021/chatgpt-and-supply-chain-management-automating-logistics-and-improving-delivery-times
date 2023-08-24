@@ -1,5 +1,3 @@
-Final Thoughts on the Importance of Using ChatGPT in Supply Chain Management
-========================================================================================
 
 In this book, we have explored the importance of using ChatGPT in supply chain management. We have discussed how ChatGPT can be used to automate logistics processes, improve delivery times, and enhance customer satisfaction.
 

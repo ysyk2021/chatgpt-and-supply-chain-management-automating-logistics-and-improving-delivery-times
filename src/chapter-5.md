@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will discuss what ChatGPT is, its features and capabilities, and how it can be used for supply chain management.
 

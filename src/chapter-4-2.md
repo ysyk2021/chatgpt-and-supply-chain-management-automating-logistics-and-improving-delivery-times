@@ -1,5 +1,3 @@
-How AI and Chatbots Can Improve Supply Chain Management
-==========================================================================================================================
 
 In this chapter, we will discuss how AI and chatbots can improve supply chain management by automating processes, improving decision-making, and optimizing logistics.
 

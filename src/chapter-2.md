@@ -1,5 +1,3 @@
-Chapter 1: Basics of Supply Chain Management
-============================================
 
 In this chapter, we will cover the basics of supply chain management, including its definition, importance, elements, and types.
 

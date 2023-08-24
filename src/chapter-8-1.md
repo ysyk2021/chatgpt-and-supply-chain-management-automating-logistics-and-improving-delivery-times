@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have discussed the importance of using ChatGPT in supply chain management. We have explored how ChatGPT can be used to automate logistics processes, improve delivery times, and enhance customer satisfaction.
 

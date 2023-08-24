@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Supply Chain Management
-================================================
 
 In this chapter, we will discuss the factors affecting supply chain management, common challenges faced by supply chain managers, and the impact of these challenges on logistics and delivery times.
 

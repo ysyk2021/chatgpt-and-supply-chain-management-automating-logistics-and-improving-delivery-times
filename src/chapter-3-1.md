@@ -1,5 +1,3 @@
-Factors Affecting Supply Chain Management
-===========================================================================================
 
 In this chapter, we will discuss the factors that affect supply chain management.
 

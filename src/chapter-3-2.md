@@ -1,5 +1,3 @@
-Common Challenges in Supply Chain Management
-==============================================================================================
 
 In this chapter, we will discuss some of the most common challenges faced by supply chain management.
 

@@ -1,5 +1,3 @@
-Impact of These Challenges on Logistics and Delivery Times
-============================================================================================================
 
 In this chapter, we will discuss the challenges faced by supply chain management and their impact on logistics and delivery times.
 

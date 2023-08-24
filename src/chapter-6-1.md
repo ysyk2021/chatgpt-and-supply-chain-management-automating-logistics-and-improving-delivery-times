@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Supply Chain Management
-=================================================================================================================
 
 In this chapter, we will discuss the steps involved in implementing ChatGPT in supply chain management.
 

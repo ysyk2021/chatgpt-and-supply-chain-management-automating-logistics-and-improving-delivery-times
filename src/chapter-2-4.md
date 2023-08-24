@@ -1,5 +1,3 @@
-Types of Supply Chains
-====================================================================
 
 In this chapter, we will discuss the basics of supply chain management, including the different types of supply chains.
 

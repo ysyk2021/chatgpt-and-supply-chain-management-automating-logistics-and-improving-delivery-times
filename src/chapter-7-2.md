@@ -1,5 +1,3 @@
-Impact of ChatGPT on the Logistics Industry
-======================================================================================================
 
 In this chapter, we will explore the potential impact of ChatGPT on the logistics industry.
 
